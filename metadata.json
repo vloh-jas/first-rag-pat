@@ -1,0 +1,6 @@
+{
+  "name": "Executive Market Terminal",
+  "description": "Real-time telemetry, institutional depth, and quantitative screener matrices across 140+ global exchanges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
